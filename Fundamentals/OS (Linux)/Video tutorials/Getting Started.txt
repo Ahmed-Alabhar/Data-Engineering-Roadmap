@@ -1,0 +1,5 @@
+Getting Started:
+	Resources:
+		Online tutorials (e.g., https://www.freecodecamp.org/news/introduction-to-linux/, https://ubuntu.com/tutorials)
+
+		Video tutorials (e.g., https://m.youtube.com/watch?v=ROjZy1WbCIA)
