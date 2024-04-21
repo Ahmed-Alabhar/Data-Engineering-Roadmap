@@ -1,0 +1,145 @@
+# Data Engineer Skills and Subtopics
+
+## Novice:
+- **Linux Fundamentals**
+  - Basic file system navigation (change directory, list files, print working directory, make directory, remove files/directories, etc.)
+  - File permissions (change mode, change owner)
+  - Text editing (nano, vim)
+  - Process management (list processes, kill processes, display system resource usage)
+- **Basic Networking Concepts**
+  - OSI model
+  - IP addressing and subnetting
+  - TCP/IP fundamentals
+  - DNS basics
+- **SQL Basics**
+  - SELECT statements
+  - Filtering data with WHERE clause
+  - Basic joins (INNER JOIN, LEFT JOIN, RIGHT JOIN)
+  - GROUP BY and aggregate functions (SUM, AVG, COUNT)
+- **Scripting**
+  - Variable declaration and usage
+  - Conditional statements (if, else)
+  - Loops (for, while)
+  - Basic error handling
+- **Version Control (Git)**
+  - Git basics (initialize repository, stage changes, commit changes, push changes, pull changes)
+  - Branching and merging
+  - Resolving merge conflicts
+
+## Intermediate:
+- **Relational Database Management Systems (e.g., SQL Server)**
+  - Advanced SQL queries (subqueries, window functions)
+  - Indexes and performance optimization
+  - Transactions and concurrency control
+  - Database normalization principles
+- **Data Modeling**
+  - Entity-relationship diagrams (ERDs)
+  - Normalization techniques (first normal form, second normal form, third normal form)
+  - Dimensional modeling (star schema, snowflake schema)
+- **ETL Concepts**
+  - Data extraction methods (full extraction, incremental extraction, change data capture)
+  - Data transformation techniques (cleansing, normalization, aggregation)
+  - Loading strategies (bulk load, batch load, streaming)
+- **Data Warehousing**
+  - Data warehouse architecture
+  - Data mart design and implementation
+  - Dimension and fact tables
+- **NoSQL Databases (e.g., MongoDB, Cassandra)**
+  - NoSQL data models (document, key-value, column-family, graph)
+  - Querying techniques
+  - Scalability and high availability concepts
+- **Microsoft Azure Services**
+  - Azure SQL Database
+  - Azure Data Factory
+  - Azure Synapse Analytics (formerly SQL Data Warehouse)
+  - Azure Cosmos DB (NoSQL database)
+  - Azure Storage (Blob storage, Data Lake Storage)
+  - Azure HDInsight (Hadoop, Spark, HBase, etc.)
+  - Azure Databricks
+  - Azure Stream Analytics
+
+## Advanced:
+- **Big Data Technologies (e.g., Hadoop, Spark)**
+  - Hadoop ecosystem components (HDFS, MapReduce, Hive, HBase)
+  - Spark architecture and RDD transformations
+  - Performance tuning and optimization
+- **Distributed Systems**
+  - Distributed computing principles
+  - CAP theorem
+  - Consensus algorithms (Paxos, Raft)
+- **Data Pipelines Orchestration**
+  - Apache Airflow
+  - Azure Data Factory pipelines
+  - Azure Logic Apps
+- **Streaming Data Processing**
+  - Apache Kafka
+  - Azure Event Hubs
+  - Azure Stream Analytics
+- **Containerization**
+  - Docker basics (containers, images, Dockerfile)
+  - Kubernetes architecture and components (pods, services, deployments)
+  - Container orchestration and scaling
+- **Machine Learning Basics**
+  - Supervised, unsupervised, and reinforcement learning
+  - Model training and evaluation
+  - Introduction to Azure Machine Learning
+- **Advanced Data Engineering Patterns and Best Practices**
+  - Data partitioning and sharding
+  - Data lineage and traceability
+  - Polyglot persistence
+- **Performance Tuning and Optimization Techniques**
+  - Query optimization strategies
+  - Parallel processing techniques
+  - Resource utilization monitoring and optimization
+- **Advanced Analytics**
+  - Predictive modeling algorithms (regression, classification, clustering)
+  - Time series forecasting methods
+  - Anomaly detection techniques (statistical, machine learning-based)
+- **Real-time Data Analytics and Processing**
+  - Real-time data ingestion methods
+  - Complex event processing (CEP)
+  - Lambda architecture and Kappa architecture
+- **Data Streaming Architectures**
+  - Exactly-once processing semantics
+  - Stateful stream processing frameworks
+  - Integration with messaging systems (Kafka, Azure Event Hubs)
+- **Data Lake Concepts and Implementation**
+  - Data lake architecture and components
+  - Data lake governance and metadata management
+  - Data lake security and access control
+- **Advanced Machine Learning Techniques**
+  - Deep learning fundamentals
+  - Neural network architectures (CNNs, RNNs)
+  - Transfer learning and model fine-tuning
+- **Data Visualization Libraries and Techniques**
+  - Advanced charting libraries (D3.js, Plotly)
+  - Interactive dashboards
+  - Visual analytics principles
+- **Advanced Data Manipulation and Transformation Techniques**
+  - Complex data wrangling tasks
+  - Custom ETL scripting
+  - Handling semi-structured and unstructured data
+- **Data Quality Management**
+  - Data profiling and quality assessment
+  - Data cleansing automation
+  - Data quality monitoring and reporting
+- **Data Cataloging and Metadata Management**
+  - Metadata extraction and annotation
+  - Centralized metadata repositories
+  - Data lineage visualization tools
+- **Data Engineering for AI and ML Applications**
+  - Feature engineering techniques
+  - Model deployment and serving
+  - A/B testing and experimentation
+- **Geospatial Data Processing**
+  - Geospatial indexing and queries
+  - Spatial analytics algorithms
+  - Integration with GIS platforms
+- **Time Series Data Analysis**
+  - Time series decomposition methods
+  - Forecasting accuracy metrics
+  - Anomaly detection in time series data
+- **Natural Language Processing (NLP) for Text Data**
+  - Text preprocessing techniques (tokenization, stemming, lemmatization)
+  - Named entity recognition (NER)
+  - Sentiment analysis and topic modeling
