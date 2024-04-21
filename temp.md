@@ -1,6 +1,6 @@
 # Data Engineer Skills and Subtopics
 
-## Novice:
+## Novice (Fundamentals):
 - **Linux Fundamentals**
   - Basic file system navigation (change directory, list files, print working directory, make directory, remove files/directories, etc.)
   - File permissions (change mode, change owner)
@@ -16,18 +16,74 @@
   - Filtering data with WHERE clause
   - Basic joins (INNER JOIN, LEFT JOIN, RIGHT JOIN)
   - GROUP BY and aggregate functions (SUM, AVG, COUNT)
-- **Scripting**
-  - Variable declaration and usage
-  - Conditional statements (if, else)
-  - Loops (for, while)
-  - Basic error handling
+- **Bash Scripting**
+  - **Variable Declaration and Usage**:
+    - Declaring variables using the `=` operator
+    - Assigning values to variables (e.g., `variable_name=value`)
+    - Accessing variable values using the `$` prefix (e.g., `$variable_name`)
+  - **Basic Script Execution**:
+    - Writing simple scripts to perform basic tasks (e.g., file manipulation, text processing)
+    - Executing scripts using the `bash` command or making them executable with `chmod +x`
+  - **Conditional Statements**:
+    - Using the `if`, `elif`, and `else` statements to make decisions based on conditions
+    - Testing conditions with comparison operators (e.g., `-eq`, `-ne`, `-lt`, `-gt`)
+  - **Loops**:
+    - Using the `for` loop to iterate over a sequence of items (e.g., files in a directory)
+    - Understanding basic loop constructs and syntax
+  - **Basic Input/Output**:
+    - Reading input from the user or from files using `read` and input redirection (`<`)
+    - Displaying output using the `echo` command  
 - **Version Control (Git)**
   - Git basics (initialize repository, stage changes, commit changes, push changes, pull changes)
   - Branching and merging
   - Resolving merge conflicts
-
+- **Python Fundamentals**
+  - **Syntax and Basic Data Types**:
+    - Variables and data types (integers, floats, strings, booleans)
+    - Basic arithmetic and string manipulation
+  - **Control Flow**:
+    - Conditional statements (if, elif, else)
+    - Looping constructs (for loops, while loops)
+  - **Basic Input/Output**:
+    - Reading input from the user (input function)
+    - Displaying output (print function)
+  - **Data Structures**:
+    - Lists, tuples, dictionaries
+    - Accessing and manipulating elements in data structures
+  - **Functions**:
+    - Defining and calling functions
+    - Passing arguments and returning values
+  - **File Operations**:
+    - Reading from and writing to files
+    - Working with file paths and handling file objects
+  - **Exception Handling**:
+    - Handling errors and exceptions using try-except blocks
+    - Raising exceptions when necessary
+- **Data Structures and Algorithms**
+  - Arrays and Strings
+  - Linked Lists
+  - Stacks and Queues
+  - Hash Tables
+  - Sorting and Searching   
+- **Foundational Mathematics**
+  - **Statistics**
+    - Mean, median, mode
+    - Standard deviation, variance
+    - Probability distributions
+  - **Linear Algebra**
+    - Matrices and vectors
+    - Matrix operations
+    - Eigenvectors and eigenvalues
+  - **Probability Theory**
+    - Probability distributions
+    - Random variables
+    - Uncertainty and randomness in data
 ## Intermediate:
-
+- **Data Structures and Algorithms**
+  - Trees
+  - Graphs
+  - Dynamic Programming
+  - Complexity Analysis
 - **Intermediate Linux**  
   - **Shell Scripting**:
     - Basics of shell scripting using Bash
@@ -40,7 +96,22 @@
     - User and group management (`adduser`, `usermod`, `groupadd`)
     - Disk management and partitioning (`fdisk`, `mkfs`, `mount`)
     - System monitoring and logging (`top`, `htop`, `sar`, `syslog`)
-      
+- **Intermediate Bash Scripting**
+  - **Advanced Variable Manipulation**:
+    - Manipulating variable contents with string operations (e.g., substring extraction, concatenation)
+    - Using command substitution to assign the output of commands to variables (`variable=$(command)`)
+  - **Error Handling**:
+    - Implementing basic error handling techniques using the `exit` command and exit status codes
+    - Checking for errors and displaying appropriate error messages
+  - **Functions**:
+    - Defining and calling functions to encapsulate reusable blocks of code
+    - Passing arguments to functions and returning values
+  - **File and Directory Operations**:
+    - Performing file and directory manipulation tasks (e.g., creating, copying, moving, deleting files)
+    - Navigating filesystem paths and handling file permissions
+  - **Text Processing**:
+    - Using command-line utilities like `grep`, `sed`, and `awk` for advanced text processing tasks
+    - Manipulating text files using regular expressions and pattern matching
 - **Relational Database Management Systems (e.g., SQL Server)**
   - Advanced SQL queries (subqueries, window functions)
   - Indexes and performance optimization
@@ -71,7 +142,23 @@
   - Azure HDInsight (Hadoop, Spark, HBase, etc.)
   - Azure Databricks
   - Azure Stream Analytics
-
+- **Network Security** (Optional):
+  - Encryption methods
+  - Virtual Private Networks (VPNs)
+  - Firewalls and intrusion detection systems
+- **Routing and Switching** (Optional):
+  - Routing protocols (e.g., OSPF, BGP)
+  - Switching technologies (e.g., VLANs, Spanning Tree Protocol)
+- **Advanced Mathematics**
+  - **Calculus**
+    - Derivatives
+    - Gradients
+    - Optimization algorithms
+  - **Discrete Mathematics**
+    - Graph theory
+    - Combinatorics
+    - Network analysis
+  
 ## Advanced:
 - **Advanced Linux**:
   - **Networking**:
@@ -166,3 +253,38 @@
   - Text preprocessing techniques (tokenization, stemming, lemmatization)
   - Named entity recognition (NER)
   - Sentiment analysis and topic modeling
+- **Network Protocols** (Optional):
+  - HTTP, FTP, SSH, SNMP, etc.
+- **Cloud Networking** (Optional):
+  - Virtual networks
+  - Subnets
+  - Load balancing
+  - Network security groups
+- **Network Monitoring and Troubleshooting** (Optional):
+  - Network monitoring tools (e.g., Wireshark, Nagios, Prometheus)
+  - Troubleshooting techniques
+- **Advanced Bash Scripting**
+  - **Advanced Script Organization**:
+    - Structuring scripts with functions, modules, and reusable components for modularity and maintainability
+    - Implementing best practices for script documentation and readability
+  - **Advanced Control Flow**:
+    - Utilizing advanced control flow structures like nested loops, case statements, and select statements
+    - Handling complex decision-making scenarios and data processing workflows
+  - **Advanced Error Handling**:
+    - Implementing robust error handling mechanisms, including try-catch blocks and error logging
+    - Handling exceptions gracefully to prevent script failures and ensure data integrity
+  - **Interfacing with External Tools and APIs**:
+    - Integrating with external tools, libraries, and APIs to extend script functionality
+    - Making HTTP requests, parsing JSON/XML responses, and processing data from external sources
+  - **Performance Optimization**:
+    - Identifying and optimizing performance bottlenecks in scripts for improved efficiency
+    - Implementing optimization techniques such as caching, parallel processing, and resource management
+- **Data Structures and Algorithms**
+  - Advanced Data Structures
+  - Advanced Algorithms (e.g., advanced graph algorithms, advanced dynamic programming techniques)
+  - Optimization Techniques
+- **Data Quality and Governance**
+  - Azure Purview (managed data catalog)
+  - Azure Data Share (secure data sharing)
+  - Azure Policy (enforcing governance rules)
+
