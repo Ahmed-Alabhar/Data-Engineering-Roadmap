@@ -27,6 +27,20 @@
   - Resolving merge conflicts
 
 ## Intermediate:
+
+- **Intermediate Linux**  
+  - **Shell Scripting**:
+    - Basics of shell scripting using Bash
+    - Writing and executing simple scripts to automate tasks
+    - Using control structures (if statements, loops) and functions in scripts
+  - **Package Management**:
+    - Installing, updating, and removing software packages using package managers (e.g., `apt`, `yum`, `zypper`)
+    - Managing package repositories and dependencies
+  - **System Administration**:
+    - User and group management (`adduser`, `usermod`, `groupadd`)
+    - Disk management and partitioning (`fdisk`, `mkfs`, `mount`)
+    - System monitoring and logging (`top`, `htop`, `sar`, `syslog`)
+      
 - **Relational Database Management Systems (e.g., SQL Server)**
   - Advanced SQL queries (subqueries, window functions)
   - Indexes and performance optimization
@@ -59,6 +73,15 @@
   - Azure Stream Analytics
 
 ## Advanced:
+- **Advanced Linux**:
+  - **Networking**:
+    - Configuring network interfaces (`ifconfig`, `ip`, `netplan`)
+    - Managing network services (`systemctl`)
+    - Troubleshooting network connectivity issues (`ping`, `traceroute`, `netstat`, `tcpdump`)
+  - **Security**:
+    - Managing file permissions and ownership to secure sensitive data
+    - Configuring firewall rules (`iptables`, `firewalld`)
+    - Implementing security best practices for user authentication and access control
 - **Big Data Technologies (e.g., Hadoop, Spark)**
   - Hadoop ecosystem components (HDFS, MapReduce, Hive, HBase)
   - Spark architecture and RDD transformations
