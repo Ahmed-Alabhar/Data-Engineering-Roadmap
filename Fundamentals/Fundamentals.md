@@ -41,6 +41,7 @@
   - TCP/IP Fundamentals
   - DNS Basics
 - SQL Basics
+  - Tables, Indexes, Relationships
   - SELECT Statements
   - Filtering Data with WHERE Clause
   - Basic Joins (INNER JOIN, LEFT JOIN, RIGHT JOIN)
