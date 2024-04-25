@@ -111,3 +111,49 @@
   - Big Data Analytics
   - Streaming Data Processing
   - Serverless Computing
+
+## Data Engineering Fundamentals (Level 1):
+
+### Data Modeling:
+- Conceptual Data Modeling
+  - Entity-Relationship Diagrams (ERDs)
+  - Basic understanding of Entity Types and Attributes
+  - Simple Relationships
+- Relational Database Management Systems (RDBMS)
+  - Basic understanding of RDBMS Concepts
+  - Simple SQL Queries (SELECT, INSERT, UPDATE, DELETE)
+- NoSQL Databases
+  - Basic understanding of Key-Value Stores
+  - Basic understanding of Document Stores
+
+### Data Processing:
+- ETL Pipelines
+  - Basic understanding of Extracting, Transforming, and Loading Data
+  - Basic Data Transformation Techniques (Cleaning, Aggregation)
+- Batch Processing
+  - Basic understanding of Hadoop Ecosystem (HDFS, MapReduce)
+- Stream Processing
+  - Basic understanding of Apache Kafka
+
+### Data Warehousing:
+- Data Warehouse Architecture
+  - Basic understanding of Star Schema
+  - Basic understanding of Dimensional Modeling
+
+### Data Integration and APIs:
+- RESTful APIs
+  - Basic understanding of HTTP Methods (GET, POST)
+- Data Integration Tools
+  - Basic understanding of Apache Nifi
+
+### Data Security and Compliance:
+- Data Privacy Regulations
+  - Basic understanding of GDPR
+- Data Encryption
+  - Basic understanding of Data at Rest Encryption
+
+### Data Monitoring and Management:
+- Data Pipelines Monitoring
+  - Basic understanding of Logging
+- Metadata Management
+  - Basic understanding of Data Lineage

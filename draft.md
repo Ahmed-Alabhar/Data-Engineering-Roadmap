@@ -841,3 +841,107 @@
   - Azure Purview (managed data catalog)
   - Azure Data Share (secure data sharing)
   - Azure Policy (enforcing governance rules)
+
+
+
+
+## Data Engineering Fundamentals:
+
+### Data Modeling:
+- Conceptual Data Modeling
+  - Entity-Relationship Diagrams (ERDs)
+  - Entity Types and Attributes
+  - Relationships and Cardinality
+- Logical Data Modeling
+  - Normalization
+  - Denormalization
+  - Schema Design
+- Physical Data Modeling
+  - Storage Optimization
+  - Indexing Strategies
+  - Partitioning and Sharding
+
+### Database Systems:
+- Relational Database Management Systems (RDBMS)
+  - Understanding RDBMS Concepts
+  - SQL Optimization Techniques
+  - ACID Properties
+- NoSQL Databases
+  - Key-Value Stores
+  - Document Stores
+  - Column-Family Stores
+  - Graph Databases
+- NewSQL Databases
+  - Distributed SQL Databases
+  - Scalability and Consistency Trade-offs
+
+### Data Processing:
+- Extract, Transform, Load (ETL) Pipelines
+  - Data Extraction from Various Sources
+  - Data Transformation Techniques (Cleaning, Aggregation, Normalization)
+  - Loading Data into Target Systems
+- Batch Processing
+  - Hadoop Ecosystem (HDFS, MapReduce, Hive, Pig)
+  - Apache Spark
+  - Apache Flink
+- Stream Processing
+  - Apache Kafka
+  - Apache Storm
+  - Apache Beam
+  - Real-time Analytics
+
+### Data Warehousing:
+- Data Warehouse Architecture
+  - Kimball vs. Inmon
+  - Star Schema and Snowflake Schema
+  - Dimensional Modeling
+- Data Warehouse Technologies
+  - Amazon Redshift
+  - Google BigQuery
+  - Snowflake
+  - Microsoft Azure Synapse Analytics
+
+### Data Governance and Quality:
+- Data Governance Frameworks
+  - Policies and Standards
+  - Data Stewardship
+  - Data Lifecycle Management
+- Data Quality Assessment
+  - Data Profiling
+  - Data Cleansing
+  - Data Quality Metrics and Monitoring
+
+### Data Integration and APIs:
+- RESTful APIs
+  - HTTP Methods (GET, POST, PUT, DELETE)
+  - Authentication and Authorization
+  - API Design Best Practices
+- Data Integration Tools
+  - Apache Nifi
+  - Talend
+  - Informatica
+  - Apache Airflow
+
+### Data Security and Compliance:
+- Data Privacy Regulations
+  - GDPR
+  - CCPA
+  - HIPAA
+- Data Encryption
+  - Data at Rest Encryption
+  - Data in Transit Encryption
+  - Key Management
+- Access Control
+  - Role-Based Access Control (RBAC)
+  - Attribute-Based Access Control (ABAC)
+  - Fine-Grained Access Control
+
+### Data Monitoring and Management:
+- Data Pipelines Monitoring
+  - Logging and Alerting
+  - Performance Monitoring
+  - Error Handling and Retry Mechanisms
+- Metadata Management
+  - Data Lineage
+  - Data Catalogs
+  - Data Dictionary
