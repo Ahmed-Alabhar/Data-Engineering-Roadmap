@@ -2,22 +2,11 @@
 
 ## Novice (Fundamentals):
 
-### Mathematics:
-- Foundational Mathematics
-  - Statistics
-    - Mean, Median, Mode
-    - Standard Deviation, Variance
-    - Probability Distributions
-  - Linear Algebra
-    - Matrices and Vectors
-    - Matrix Operations
-    - Eigenvectors and Eigenvalues
-  - Probability Theory
-    - Probability Distributions
-    - Random Variables
-    - Uncertainty and Randomness in Data
-
 ### Computing Fundamentals:
+- Version Control (Git)
+  - Git Basics (Initialize Repository, Stage Changes, Commit Changes, Push Changes, Pull Changes)
+  - Branching and Merging
+  - Resolving Merge Conflicts
 - Linux Fundamentals:
   - Basic File System Navigation
     - Change directory (`cd`)
@@ -63,10 +52,6 @@
   - Basic Input/Output
     - Reading Input from the User or from Files using `read` and Input Redirection (`<`)
     - Displaying Output using the `echo` Command
-- Version Control (Git)
-  - Git Basics (Initialize Repository, Stage Changes, Commit Changes, Push Changes, Pull Changes)
-  - Branching and Merging
-  - Resolving Merge Conflicts
 - Python Fundamentals
   - Syntax and Basic Data Types
     - Variables and Data Types (Integers, Floats, Strings, Booleans)
@@ -157,3 +142,19 @@
   - Basic understanding of Logging
 - Metadata Management
   - Basic understanding of Data Lineage
+
+### Mathematics:
+- Foundational Mathematics
+  - Statistics
+    - Mean, Median, Mode
+    - Standard Deviation, Variance
+    - Probability Distributions
+  - Linear Algebra
+    - Matrices and Vectors
+    - Matrix Operations
+    - Eigenvectors and Eigenvalues
+  - Probability Theory
+    - Probability Distributions
+    - Random Variables
+    - Uncertainty and Randomness in Data
+
