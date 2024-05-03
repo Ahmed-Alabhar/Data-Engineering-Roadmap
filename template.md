@@ -1,5 +1,3 @@
----
-
 # Beginner Resources
 
 ## Books
