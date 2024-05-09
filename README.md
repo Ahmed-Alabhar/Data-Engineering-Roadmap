@@ -100,10 +100,10 @@
 - [Open Source Tools, Libraries, and Frameworks for Data Engineering - Intermediate](./Open%20Source/Open%20Source%20Tools,%20Libraries,%20and%20Frameworks%20for%20Data%20Engineering%20-%20Intermediate.md)
 - [Open Source Tools, Libraries, and Frameworks for Data Engineering - Advanced](./Open%20Source/Open%20Source%20Tools,%20Libraries,%20and%20Frameworks%20for%20Data%20Engineering%20-%20Advanced.md)
 
-## Programming Languages
-- [Programming Languages for Data Engineering - Essentials](./Programming%20Languages/Programming%20Languages%20for%20Data%20Engineering%20-%20Essentials.md)
-- [Programming Languages for Data Engineering - Intermediate](./Programming%20Languages/Programming%20Languages%20for%20Data%20Engineering%20-%20Intermediate.md)
-- [Programming Languages for Data Engineering - Advanced](./Programming%20Languages/Programming%20Languages%20for%20Data%20Engineering%20-%20Advanced.md)
+## Python
+- [Python Essentials](./Python/Python%20Essentials.md)
+- [Python Intermediate](./Python/Python%20Intermediate.md)
+- [Python Advanced](./Python/Python%20Advanced.md)
 
 ## SQL
 - [SQL Essentials & Intermediate](./SQL/SQL%20Essentials%20&%20Intermediate.md)
