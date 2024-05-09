@@ -20,6 +20,7 @@
 
 ## Tools
 - [Tool Name](link): Description.
+- 
 
 ---
 
@@ -32,7 +33,8 @@
 - [Course Title](link): Description.
 
 ## Tutorials
-- [Tutorial Title](link): Description.
+- [Tutorials with clarifying examples](https://www.w3schools.com/sql/): Description : Track your progress with the free "My Learning" program.
+
 
 ## Tools
 - [Tool Name](link): Description.
