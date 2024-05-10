@@ -26,7 +26,7 @@ This checklist covers the fundamental mathematical concepts essential for data e
 
 # Resources
 
-## Books
+## Free Books
 
 ### Linear Algebra Basics:
 
@@ -37,6 +37,10 @@ This checklist covers the fundamental mathematical concepts essential for data e
 ### Statistics Fundamentals:
 
 - Introduction to Statistics: [Open Textbook](https://openstax.org/details/books/introductory-statistics)
+- Think Stats 2e: [Link](https://greenteapress.com/wp/think-stats-2e/)
+- Probabilistic Programming & Bayesian Methods for Hackers: [Link](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+- Computational and Inferential Thinking: [Link](https://inferentialthinking.com/chapters/intro.html)
+
 
 ### Probability Basics:
 
@@ -44,6 +48,9 @@ This checklist covers the fundamental mathematical concepts essential for data e
 - A Modern Introduction to Probability and Statistics: [Book](https://www.springer.com/gp/book/9781852338961)
 - Probability, Statistics & Random Processes: [Website](https://www.probabilitycourse.com/)
 
+### Others:
+- Mathematics Notation List: [Link](https://www.cambridgeinternational.org/Images/420009-mathematics-notation-list-.pdf)
+- Applied Linear Regression: [Link](https://www.stat.purdue.edu/~qfsong/teaching/525/book/Weisberg-Applied-Linear-Regression-Wiley.pdf)
 
 ## Free Online Courses
 
@@ -103,10 +110,10 @@ Python is a powerful programming language widely used in the scientific communit
 Python's versatility and extensive libraries make it a valuable tool for researchers, data scientists, and anyone needing to perform mathematical and computational tasks.
 
 You need to install 
-1. Python
-2. pip
-3. IDE (PyCharm, Jupyter Notebook, or Visual Studio Code)
-4. Python Libraries (Mentioned above)
+1. [Python](https://www.python.org/downloads/) 
+2. [pip](https://pip.pypa.io/en/stable/installation/) 
+3. IDE (PyCharm, Jupyter Notebook, or Visual Studio Code) - optional , use prefered IDE
+4. Python Libraries (Mentioned above) - use pip to install 
 
 Don't forget to Practice Problems. HAPPY Learning. 
 
