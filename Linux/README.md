@@ -1,4 +1,3 @@
-
 # Linux Study Checklists
 
 - [Linux Essentials](Linux%20Essentials.md)
@@ -9,49 +8,47 @@
 
 # Beginner Resources
 
-## Books
-- [Book Title](link): Description.
+## Books (Not Available Yet)
+- [Book Title (English)](link): .
+- [Book Title (Arabic)](link): .
 
 ## Online Courses
-- [Course Title](link): Description.
-
-## Tutorials
-- [Tutorial Title](link): Description.
+- [Fundamentals of Red Hat Enterprise Linux Via RedHat (English)]([link](https://www.coursera.org/learn/fundamentals-of-red-hat-enterprise-linux#modules)): 20 hours (approximately).
+- [Ahmed Sami (Arabic)]((https://www.youtube.com/watch?v=gojeTqXdBH0): 11 hours (approximately).
 
 ## Tools
-- [Tool Name](link): Description.
+- [Ubunto 24|4 (English)](https://ubuntu.com/download/desktop): Ubunto 24-4 LTS.
+  
+---
+
+# Intermediate Resources (Not Available Yet)
+
+## Books
+- [Book Title (English)](link): Description.
+- [Book Title (Arabic)](link): Description.
+
+## Online Courses
+- [Course Title (English)](link): Description.
+- [Course Title (Arabic)](link): Description.
+
+## Tools
+- [Tool Name (English)](link): Description.
+- [Tool Name (Arabic)](link): Description.
 
 ---
 
-# Intermediate Resources
+# Advanced Resources (Not Available Yet)
 
 ## Books
-- [Book Title](link): Description.
+- [Book Title (English)](link): Description.
+- [Book Title (Arabic)](link): Description.
 
 ## Online Courses
-- [Course Title](link): Description.
-
-## Tutorials
-- [Tutorial Title](link): Description.
+- [Course Title (English)](link): Description.
+- [Course Title (Arabic)](link): Description.
 
 ## Tools
-- [Tool Name](link): Description.
+- [Tool Name (English)](link): Description.
+- [Tool Name (Arabic)](link): Description.
 
 ---
-
-# Advanced Resources
-
-## Books
-- [Book Title](link): Description.
-
-## Online Courses
-- [Course Title](link): Description.
-
-## Tutorials
-- [Tutorial Title](link): Description.
-
-## Tools
-- [Tool Name](link): Description.
-
----
-
