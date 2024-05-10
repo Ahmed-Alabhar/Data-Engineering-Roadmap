@@ -24,44 +24,28 @@
 
 This checklist covers the fundamental mathematical concepts essential for data engineering, including linear algebra, statistics, probability, and data representation.
 
-# Books
+# Resources
 
-## Linear Algebra Basics:
+## Books
+
+### Linear Algebra Basics:
 
 - FUNDAMENTALS OF LINEAR ALGEBRA: [PDF](https://www.math.ubc.ca/~carrell/NB.pdf)
 - A First Course in Linear Algebra: [Open Textbook](https://open.umn.edu/opentextbooks/textbooks/a-first-course-in-linear-algebra)
 - Linear Algebra by UC Davis: [PDF](https://www.math.ucdavis.edu/~linear/linear-guest.pdf)
 
-## Statistics Fundamentals:
+### Statistics Fundamentals:
 
 - Introduction to Statistics: [Open Textbook](https://openstax.org/details/books/introductory-statistics)
-- 5 Free Books to Learn Statistics: [Website](https://www.statology.org/free-statistics-books/)
 
-## Probability Basics:
+### Probability Basics:
 
 - Introduction to Probability: [Open Textbook](https://open.umn.edu/opentextbooks/textbooks/introduction-to-probability)
 - A Modern Introduction to Probability and Statistics: [Book](https://www.springer.com/gp/book/9781852338961)
 - Probability, Statistics & Random Processes: [Website](https://www.probabilitycourse.com/)
 
-## Data Representation:
 
-- Linear Regression Using R: An Introduction to Data Modeling: [Book](https://www.amazon.com/Linear-Regression-Using-R-Introduction/dp/331939181X)
-- A Hand Book on Data representation and Computer Arithmetic: [Book](https://www.perlego.com/book/2093098/a-hand-book-on-data-representation-and-computer-arithmetic-pdf)
-- NCERT Class 11 Computer Science Data Representation in Computers: [Website](https://www.studiestoday.com/concept-notes/67/computer-science.html)
-
-## Mathematical Notation:
-
-- Mathematics Notation List 2020: [PDF](https://www.cambridgeinternational.org/Images/415060-2020-mathematics-notation-list.pdf)
-- A History Of Mathematical Notations Vol I: [Book](https://archive.org/details/in.ernet.dli.2015.279706/page/n5/mode/2up)
-
-## Linear Regression:
-
-- Linear Regression Using R: An Introduction to Data Modeling: [Book](https://www.amazon.com/Linear-Regression-Using-R-Introduction/dp/331939181X)
-- Applied Linear Regression: [Book](https://www.wiley.com/en-us/Applied+Linear+Regression%2C+4th+Edition-p-9780471455929)
-- Introduction to linear regression analysis: [Book](https://archive.org/details/introductiontoli00doug/page/124/mode/2up)
-
-
-# Free Online Courses
+## Free Online Courses
 
 1. Discrete Math from Code Academy: [Link](https://www.codecademy.com/learn/discrete-math)
 2. Linear Algebra from Khan Academy: [Link](https://www.khanacademy.org/math/linear-algebra)
@@ -78,31 +62,31 @@ This checklist covers the fundamental mathematical concepts essential for data e
 13. Linear Regression and Modeling from Duke University: [Link](https://www.coursera.org/learn/linear-regression-model)
 14. Linear Regression and Modeling from Coursera: [Link](https://www.coursera.org/learn/linear-regression-model)
 
-# Tutorials  
-## Linear Algebra Basics:
+## Tutorials  
+### Linear Algebra Basics:
 - **Linear Algebra With Python by weijie-chen:** This series of lecture notes will walk you through all the must-know concepts that set the foundation of data science or advanced quantitative skillsets. [GitHub Link](https://github.com/weijie-chen/Linear-Algebra-With-Python)
 - **Numerical Linear Algebra by MonitSharma:** A course on Linear Algebra using Python in Jupyter notebooks. [GitHub Link](https://github.com/MonitSharma/Numerical-Linear-Algebra)
 
-## Statistics Fundamentals:
+### Statistics Fundamentals:
 - **Fundamentals of Statistics and Visualization in Python by PacktPublishing:** This course explores several core statistical concepts to utilize data; construct confidence intervals in Python and assess the results; discover correlations; and update your beliefs using Bayesian Inference. [GitHub Link](https://github.com/PacktPublishing/Fundamentals-of-Statistics-and-Visualization-in-Python)
 - **Statistical Analysis Python Tutorial by fonnesbeck:** This tutorial introduces the use of Python for statistical data analysis, using data stored as Pandas DataFrame objects. [GitHub Link](https://github.com/fonnesbeck/statistical-analysis-python-tutorial)
 
-## Probability Basics:
+### Probability Basics:
 - **Python for Probability, Statistics, and Machine Learning by unpingco:** This book covers the key ideas that link probability, statistics, and machine learning illustrated using Python modules in these areas. [GitHub Link](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning)
 - **Introduction to Probability in Python by Dataquest:** This course introduces you to probability in data science. [Course Link](https://www.dataquest.io/course/probability-fundamentals/)
-## Data Representation:
+### Data Representation:
 - **Data Analysis Using Python by mebauer:** Demonstrates various ways to read (load) and write (save) data using the Python programming language. [GitHub Link](https://github.com/mebauer/data-analysis-using-python)
 - **Python Data Representations by ahlamjaved:** This course is the second of a 5 course specialization in Python. [GitHub Link](https://github.com/ahlamjaved/Python-Data-Representations)
 
-## Mathematical Notation:
+### Mathematical Notation:
 - **Writing Mathematical Expressions by GitHub Docs:** Use Markdown to display mathematical expressions on GitHub. [GitHub Link](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
 - **Mathematical Python by patrickwalls:** An introduction to mathematical computing including Jupyter notebooks, markdown, and LaTeX. [GitHub Link](https://github.com/patrickwalls/mathematical-python)
 
-## Linear Regression:
+### Linear Regression:
 - **Linear Regression Prediction Project by My-Machine-Learning-Projects-CT:** Analyse a Dataset of Ecommerce company based in New York City that sells clothing online. [GitHub Link](https://github.com/topics/linear-regression-python)
 - **Linear Regression Implementation in Python by tatwan:** Jupyter Notebook with examples on how to implement Linear Regression in different ways with Python. [GitHub Link](https://github.com/tatwan/Linear-Regression-Implementation-in-Python)
 
-# Tools
+## Tools
 Python is a powerful programming language widely used in the scientific community for mathematics and computation. Its simplicity, readability, and flexibility make it an excellent choice for performing mathematical operations and analyzing data. Python's extensive library of numerical and scientific computing tools, such as NumPy, SciPy, and Matplotlib, provides a range of functions and tools for complex calculations, analysis, and visualization. Some popular libraries for mathematics in Python include:
 
 1. **Math Module**: Python's built-in math module offers functions for mathematical calculations like trigonometry, logarithms, and complex numbers.
