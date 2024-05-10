@@ -122,7 +122,6 @@
 - [SQL Essentials & Intermediate](./SQL/SQL%20Essentials%20&%20Intermediate.md)
 - [Linux Essentials](./Linux/Linux%20Essentials.md)
 - [Git & GitHub Essentials](./GIT/Git%20&%20GitHub%20Essentials.md)
-- [Bash Scripting Best Practices](./Bash%20Scripting/Bash%20Scripting%20Best%20Practices.md)
 - [Bash Scripting Essentials & Intermediate](./Bash%20Scripting/Bash%20Scripting%20Essentials%20&%20Intermediate.md)
 - [Python Intermediate](./Python/Python%20Intermediate.md)
 - [Cloud Concepts for Data Engineering - Essentials](./Cloud%20Concepts/Cloud%20Concepts%20for%20Data%20Engineering%20-%20Essentials.md)
@@ -170,6 +169,7 @@ Milestone: Proficient in major cloud platforms, data warehousing, DevOps, infras
 ---
 
 ## Lead/Principal Data Engineer
+- [Bash Scripting Best Practices](./Bash%20Scripting/Bash%20Scripting%20Best%20Practices.md)
 - [Data Modeling for Data Engineering - Advanced](./Data%20Modeling/Data%20Modeling%20for%20Data%20Engineering%20-%20Advanced.md)
 - [Cloud Concepts for Data Engineering - Advanced](./Cloud%20Concepts/Cloud%20Concepts%20for%20Data%20Engineering%20-%20Advanced.md)
 - [Infrastructure for Data Engineering - Intermediate](./Infrastructure/Infrastructure%20for%20Data%20Engineering%20-%20Intermediate.md)
