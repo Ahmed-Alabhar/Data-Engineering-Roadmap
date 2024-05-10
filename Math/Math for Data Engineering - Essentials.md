@@ -24,30 +24,59 @@
 
 This checklist covers the fundamental mathematical concepts essential for data engineering, including linear algebra, statistics, probability, and data representation.
 
+# Books
+
+## Linear Algebra Basics:
+
+- FUNDAMENTALS OF LINEAR ALGEBRA: [PDF](https://www.math.ubc.ca/~carrell/NB.pdf)
+- A First Course in Linear Algebra: [Open Textbook](https://open.umn.edu/opentextbooks/textbooks/a-first-course-in-linear-algebra)
+- Linear Algebra by UC Davis: [PDF](https://www.math.ucdavis.edu/~linear/linear-guest.pdf)
+
+## Statistics Fundamentals:
+
+- Introduction to Statistics: [Open Textbook](https://openstax.org/details/books/introductory-statistics)
+- 5 Free Books to Learn Statistics: [Website](https://www.statology.org/free-statistics-books/)
+
+## Probability Basics:
+
+- Introduction to Probability: [Open Textbook](https://open.umn.edu/opentextbooks/textbooks/introduction-to-probability)
+- A Modern Introduction to Probability and Statistics: [Book](https://www.springer.com/gp/book/9781852338961)
+- Probability, Statistics & Random Processes: [Website](https://www.probabilitycourse.com/)
+
+## Data Representation:
+
+- Linear Regression Using R: An Introduction to Data Modeling: [Book](https://www.amazon.com/Linear-Regression-Using-R-Introduction/dp/331939181X)
+- A Hand Book on Data representation and Computer Arithmetic: [Book](https://www.perlego.com/book/2093098/a-hand-book-on-data-representation-and-computer-arithmetic-pdf)
+- NCERT Class 11 Computer Science Data Representation in Computers: [Website](https://www.studiestoday.com/concept-notes/67/computer-science.html)
+
+## Mathematical Notation:
+
+- Mathematics Notation List 2020: [PDF](https://www.cambridgeinternational.org/Images/415060-2020-mathematics-notation-list.pdf)
+- A History Of Mathematical Notations Vol I: [Book](https://archive.org/details/in.ernet.dli.2015.279706/page/n5/mode/2up)
+
+## Linear Regression:
+
+- Linear Regression Using R: An Introduction to Data Modeling: [Book](https://www.amazon.com/Linear-Regression-Using-R-Introduction/dp/331939181X)
+- Applied Linear Regression: [Book](https://www.wiley.com/en-us/Applied+Linear+Regression%2C+4th+Edition-p-9780471455929)
+- Introduction to linear regression analysis: [Book](https://archive.org/details/introductiontoli00doug/page/124/mode/2up)
+
+
 # Free Online Courses
 
-1. **Scalars, vectors, matrices, and basic operations (addition, multiplication)**:
-   - Linear Algebra from Khan Academy: [Link](https://www.khanacademy.org/math/linear-algebra)
-   - Vector and Matrix Algebra from Santa Fe Institute: [Link](https://www.complexityexplorer.org/courses/91-introduction-to-complexity)
-   - Scalars, Vectors, Matrices and Tensors - Linear Algebra for Deep Learning (Part 1) from QuantStart: [Link](https://www.quantstart.com/articles/scalars-vectors-matrices-and-tensors-linear-algebra-for-deep-learning-part-1)
-
-2. **Statistics Fundamentals (Descriptive statistics, variance, standard deviation)**:
-   - MITx: Fundamentals of Statistics from edX: [Link](https://www.edx.org/course/fundamentals-of-statistics)
-   - Statistics and Probability from Khan Academy: [Link](https://www.khanacademy.org/math/statistics-probability)
-
-3. **Probability Basics (Probability concepts, conditional probability, Bayes' theorem)**:
-   - Fundamentals of Probability from Alison: [Link](https://alison.com/course/fundamentals-of-probability)
-   - Probability & Statistics — Open & Free from OLI: [Link](https://oli.cmu.edu/courses/probability-statistics-open-free/)
-
-4. **Data Representation (Data types, data encoding, normalization)**:
-   - Foundations of Sports Analytics: Data, Representation, and Models in Sports from University of Michigan: [Link](https://www.coursera.org/specializations/sports-analytics)
-
-5. **Mathematical Notation (Common mathematical symbols and notation used in data engineering)**:
-   - Pre-algebra from Khan Academy: [Link](https://www.khanacademy.org/math/pre-algebra)
-
-6. **Linear Regression (Basic understanding of linear regression and its application in data analysis)**:
-   - Linear Regression and Modeling from Duke University: [Link](https://www.coursera.org/learn/linear-regression-model)
-   - Linear Regression and Modeling from Coursera: [Link](https://www.coursera.org/learn/linear-regression-model)
+1. Discrete Math from Code Academy: [Link](https://www.codecademy.com/learn/discrete-math)
+2. Linear Algebra from Khan Academy: [Link](https://www.khanacademy.org/math/linear-algebra)
+3. Vector and Matrix Algebra from Santa Fe Institute: [Link](https://www.complexityexplorer.org/courses/91-introduction-to-complexity)
+4. Scalars, Vectors, Matrices and Tensors - Linear Algebra for Deep Learning (Part 1) from QuantStart: [Link](https://www.quantstart.com/articles/scalars-vectors-matrices-and-tensors-linear-algebra-for-deep-learning-part-1)
+5. MITx: Fundamentals of Statistics from edX: [Link](https://www.edx.org/course/fundamentals-of-statistics)
+6. Statistics and Probability from Khan Academy: [Link](https://www.khanacademy.org/math/statistics-probability)
+7. Fundamentals of Probability from Alison: [Link](https://alison.com/course/fundamentals-of-probability)
+8. Probability & Statistics — Open & Free from OLI: [Link](https://oli.cmu.edu/courses/probability-statistics-open-free/)
+9. Data Science Math Skills – Duke University on Coursera: [link](https://www.coursera.org/learn/datasciencemathskills)
+10. Scaling and Normalization: [Link](https://letsdatascience.com/scaling-and-normalization/)
+11. Foundations of Sports Analytics: Data, Representation, and Models in Sports from University of Michigan: [Link](https://www.coursera.org/specializations/sports-analytics)
+12. Pre-algebra from Khan Academy: [Link](https://www.khanacademy.org/math/pre-algebra)
+13. Linear Regression and Modeling from Duke University: [Link](https://www.coursera.org/learn/linear-regression-model)
+14. Linear Regression and Modeling from Coursera: [Link](https://www.coursera.org/learn/linear-regression-model)
 
 # Tutorials  
 ## Linear Algebra Basics:
@@ -72,4 +101,28 @@ This checklist covers the fundamental mathematical concepts essential for data e
 ## Linear Regression:
 - **Linear Regression Prediction Project by My-Machine-Learning-Projects-CT:** Analyse a Dataset of Ecommerce company based in New York City that sells clothing online. [GitHub Link](https://github.com/topics/linear-regression-python)
 - **Linear Regression Implementation in Python by tatwan:** Jupyter Notebook with examples on how to implement Linear Regression in different ways with Python. [GitHub Link](https://github.com/tatwan/Linear-Regression-Implementation-in-Python)
+
+# Tools
+Python is a powerful programming language widely used in the scientific community for mathematics and computation. Its simplicity, readability, and flexibility make it an excellent choice for performing mathematical operations and analyzing data. Python's extensive library of numerical and scientific computing tools, such as NumPy, SciPy, and Matplotlib, provides a range of functions and tools for complex calculations, analysis, and visualization. Some popular libraries for mathematics in Python include:
+
+1. **Math Module**: Python's built-in math module offers functions for mathematical calculations like trigonometry, logarithms, and complex numbers.
+2. **NumPy**: A powerful library for numerical computing, providing support for large, multi-dimensional arrays and matrices, and functions for mathematical operations on these data structures.
+3. **SymPy**: A library for symbolic mathematics, allowing algebraic manipulation, calculus, and equation solving using symbolic techniques.
+4. **Pandas**: A library for data analysis, offering tools for importing, cleaning, manipulating, and analyzing tabular data.
+5. **SciPy**: A comprehensive library for scientific and engineering applications, built on top of NumPy, providing functions for optimizing performance, complex calculations, and data analysis.
+6. **Matplotlib**: An open-source library for creating visualizations of data in Python, allowing users to create a wide range of static, animated, and interactive visualizations.
+7. **Scikit-learn**: A library for machine learning and data analysis, providing a range of algorithms and tools for tasks such as classification, regression, clustering, and dimensionality reduction.
+8. **Statsmodels**: A library for statistical analysis of data sets, providing classes and tools for estimating statistical models such as linear regression and generalized linear models.
+9. **Dask**: A library for flexible, efficient, and easy-to-use parallel computing, allowing computational tasks on a subset of data across multiple computers or CPUs.
+10. **Theano**: A library for defining, optimizing, and evaluating mathematical expressions involving multi-dimensional arrays, with support for both CPU and GPU modes.
+
+Python's versatility and extensive libraries make it a valuable tool for researchers, data scientists, and anyone needing to perform mathematical and computational tasks.
+
+You need to install 
+1. Python
+2. pip
+3. IDE (PyCharm, Jupyter Notebook, or Visual Studio Code)
+4. Python Libraries (Mentioned above)
+
+Don't forget to Practice Problems. HAPPY Learning. 
 
