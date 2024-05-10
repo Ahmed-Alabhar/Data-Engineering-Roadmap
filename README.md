@@ -1,4 +1,4 @@
-
+# Data Engineering Roadmap -with suggested- Study Plan
 
 # Suggested study order by level
 
@@ -20,6 +20,32 @@
 
 
 Milestone: Proficient in Python, SQL, version control, scripting, and basic data engineering concepts.
+### Free Introductory Data Engineering Courses
+
+#### Data Engineering Foundations Specialization - Coursera
+- **Provider:** IBM
+- **Description:** This specialization consists of 5 self-paced online courses covering skills required for data engineering, including the data engineering ecosystem and lifecycle, Python, SQL, and Relational Databases.
+- **Link:** [Data Engineering Foundations Specialization](https://www.coursera.org/specializations/data-engineering-foundations)
+
+#### Free Data Engineering Courses - Jigsaw Labs
+- **Description:** This platform offers free interactive courses in data engineering and machine learning. Topics range from introduction to coding with Python to more advanced topics like Spark, Machine Learning, and Neural Networks.
+- **Link:** [Free Data Engineering Courses](https://www.jigsawlabs.io/free-data-engineering-course)
+
+#### IBM: Data Engineering Basics for Everyone - edX
+- **Description:** This course introduces data engineering concepts, ecosystem, and lifecycle. It also covers the systems, processes, and tools you need as a Data Engineer.
+- **Link:** [Data Engineering Basics for Everyone](https://www.edx.org/learn/data-engineering/ibm-data-engineering-basics-for-everyone)
+
+#### Learn the Essentials of Data Engineering - freeCodeCamp.org
+- **Author:** Justin Chau
+- **Description:** This course aims to equip learners with the necessary skills and knowledge to excel in the rapidly evolving field of Data Engineering.
+- **Link:** [Essentials of Data Engineering](https://www.youtube.com/watch?v=PHsC_t0j1dU)
+
+#### Projects
+- [data engineering zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/projects)
+- [danieldiamond data engineering capstone](https://github.com/danieldiamond/data-engineering-capstone)
+- [5 End-To-End Data Engineering Projects for FREE](https://medium.com/@yusuf.ganiyu/5-end-to-end-data-engineering-projects-for-free-6b3fecfbcc9b)
+- [Realtime Data Streaming | End-to-End Data Engineering Project](https://github.com/airscholar/e2e-data-engineering): This project serves as a comprehensive guide to building an end-to-end data engineering pipeline. It covers each stage from data ingestion to processing and finally to storage, utilizing a robust tech stack that includes Apache Airflow, Python, Apache Kafka, Apache Zookeeper, Apache Spark, and Cassandra. Everything is containerized using Docker for ease of deployment and scalability.
+You can clone the repository and follow the instructions provided in the README to get started. Please remember to respect the license and usage terms provided by the project author. Happy learning! 😊
 
 ---
 
