@@ -7,6 +7,9 @@
 
 - [SQL Advanced](SQL%20Advanced.md)
 
+# SQL Roadmap 
+- [Visual Roadmap](https://roadmap.sh/sql)
+
 # Beginner Resources
 
 ## Books
