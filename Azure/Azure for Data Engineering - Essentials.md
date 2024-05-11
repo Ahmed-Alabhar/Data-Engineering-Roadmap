@@ -26,3 +26,6 @@
 ### Summary
 
 This checklist covers the essential Azure services and concepts relevant to data engineering, including data ingestion, storage, processing, analytics, and security.
+
+### Projects
+- [dp-203-azure-data-engineer labs](https://github.com/MicrosoftLearning/dp-203-azure-data-engineer/tree/master/Instructions/Labs): Description : 27 Tutorial
