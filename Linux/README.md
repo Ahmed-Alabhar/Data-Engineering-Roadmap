@@ -6,6 +6,9 @@
 - [Linux Intermediate](Linux%20Intermediate.md)
 
 - [Linux Advanced](Linux%20Advanced.md)
+- 
+# Linux Roadmap 
+- [Visual Roadmap](https://roadmap.sh/linux)
 
 # Beginner Resources
 
