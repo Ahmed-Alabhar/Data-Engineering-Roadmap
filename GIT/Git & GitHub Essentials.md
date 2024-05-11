@@ -74,4 +74,13 @@
 14. **Undoing Commits:**
     - Amend the last commit.
     - Revert a commit.
+### Tutorials
+- [Git Tutorial 1](https://ourcodingclub.github.io/tutorials/git/): Description : Create your own repository and project folder structure , Get familiar with version control, Git and GitHub
 
+- [Git Tutorial 2](https://www.w3schools.com/git/): Description : Exercises and knowledge check.
+
+- [Git Tutorial 3](https://learngitbranching.js.org/): Description : "Learn Git Branching" is the most visual and interactive way to learn Git on the web
+
+- [Git Tutorial 4]( https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/): Description : The beginner’s guide to Git & GitHub
+
+- [Git Tutorial 5](https://docs.github.com/en/get-started/start-your-journey/hello-world): Description : Hello world project , F=follow this Hello World exercise to learn GitHub's pull request workflow.
