@@ -1,4 +1,3 @@
-
 # Networking Study Checklists
 
 - [Networking Essentials](Networking%20Essentials.md)
@@ -9,49 +8,52 @@
 
 # Beginner Resources
 
-## Books
-- [Book Title](link): Description.
+## Books (Not Available Yet)
+- [Book Title (English)](link): Description.
+- [Book Title (Arabic)](link): Description.
 
 ## Online Courses
-- [Course Title](link): Description.
+- [Practical Network (English)](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi): Playlist On Youtube.
+- [Udemy Course (English)](https://www.udemy.com/course/networking-concepts-for-beginners/): Good To Start.
+- [Linkedin Learning (English)](https://www.linkedin.com/learning/networking-foundations-networking-basics/welcome-to-the-network): Basics.
 
-## Tutorials
-- [Tutorial Title](link): Description.
+  (Not Available Yet)
+- [Course Title (Arabic)](link): Description.
 
-## Tools
-- [Tool Name](link): Description.
+## Tools (Not Available Yet)
+- [Tool Name (English)](link): Description.
+- [Tool Name (Arabic)](link): Description.
 
 ---
 
-# Intermediate Resources
+# Intermediate Resources (Not Available Yet)
 
 ## Books
-- [Book Title](link): Description.
+- [Book Title (English)](link): Description.
+- [Book Title (Arabic)](link): Description.
 
 ## Online Courses
-- [Course Title](link): Description.
-
-## Tutorials
-- [Tutorial Title](link): Description.
+- [Course Title (English)](link): Description.
+- [Course Title (Arabic)](link): Description.
 
 ## Tools
-- [Tool Name](link): Description.
+- [Tool Name (English)](link): Description.
+- [Tool Name (Arabic)](link): Description.
 
 ---
 
-# Advanced Resources
+# Advanced Resources (Not Available Yet)
 
 ## Books
-- [Book Title](link): Description.
+- [Book Title (English)](link): Description.
+- [Book Title (Arabic)](link): Description.
 
 ## Online Courses
-- [Course Title](link): Description.
-
-## Tutorials
-- [Tutorial Title](link): Description.
+- [Course Title (English)](link): Description.
+- [Course Title (Arabic)](link): Description.
 
 ## Tools
-- [Tool Name](link): Description.
+- [Tool Name (English)](link): Description.
+- [Tool Name (Arabic)](link): Description.
 
 ---
-
