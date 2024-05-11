@@ -43,3 +43,10 @@
 ### Summary
 
 This Essentials checklist provides a foundation in SQL for data engineering, covering basic to intermediate SQL concepts essential for working with databases.
+
+### Tutorials
+- [Linux Tutorial 2](https://linuxjourney.com/): Description : Learn the ways of Linux-fu supported by quizes
+
+- [Linux Tutorial 3](https://linuxjourney.com/): Description : Linux Upskill Challenges 21 Days
+
+
