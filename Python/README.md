@@ -7,6 +7,9 @@
 
 - [Python Advanced](Python%20Advanced.md)
 
+# Python Roadmap 
+- [Visual Data Structures & Algorithms Roadmap ](https://roadmap.sh/datastructures-and-algorithms)
+
 # Beginner Resources
 
 ## Books
