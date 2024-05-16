@@ -10,49 +10,38 @@
 
 # Beginner Resources
 
-## Books
-- [Book Title](link): Description.
+## Books (Not Available yet)
+- [Book Title (English)](link):.
+- [Book Title (Arabic)](link):.
 
 ## Online Courses
-- [Course Title](link): Description.
-
-## Tutorials
-- [Tutorial Title](link): Description.
-
+- [Coursera (English)](https://www.coursera.org/learn/introduction-git-github#about):27 hours (approximately), Good For Beginner .
+- [Udacity (English)](https://www.udacity.com/course/version-control-with-git--ud123): 10 hours, Good To start with it .
+- [Moash Hamadanny On Youtube (English)](https://www.youtube.com/watch?v=8JJ101D3knE&list=PLTjRvDozrdlxCs_3gaqd120LcGxmfe8rG&index=6): Basic And Cleary Source To Get Into Git& Githup.
+- [غريب الشيخ  (عربي)](https://www.youtube.com/watch?v=fDkR0TDR9dI): مقدمة بسيطة وواضحة عن التوبيك .
+- [أسامة الزيرو (عربي)](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF): شرح بإستفاضة + تقسيم للمواضيع .
+  
 ## Tools
-- [Tool Name](link): Description.
+- [Git (English)](https://git-scm.com/downloads): Git App To Deal With Repos At Githup.
 
----
+# Intermediate Resources (Not Available Yet)
 
-# Intermediate Resources
+- [Intermediate Books (English)](link): Description.
+- [Intermediate Books (Arabic)](link): Description.
 
-## Books
-- [Book Title](link): Description.
+- [Intermediate Courses (English)](link): Description.
+- [Intermediate Courses (Arabic)](link): Description.
 
-## Online Courses
-- [Course Title](link): Description.
+- [Intermediate Tools (English)](link): Description.
+- [Intermediate Tools (Arabic)](link): Description.
 
-## Tutorials
-- [Tutorial Title](link): Description.
+# Advanced Resources (Not Available Yet)
 
-## Tools
-- [Tool Name](link): Description.
+- [Advanced Books (English)](link): Description.
+- [Advanced Books (Arabic)](link): Description.
 
----
+- [Advanced Courses (English)](link): Description.
+- [Advanced Courses (Arabic)](link): Description.
 
-# Advanced Resources
-
-## Books
-- [Book Title](link): Description.
-
-## Online Courses
-- [Course Title](link): Description.
-
-## Tutorials
-- [Tutorial Title](link): Description.
-
-## Tools
-- [Tool Name](link): Description.
-
----
-
+- [Advanced Tools (English)](link): Description.
+- [Advanced Tools (Arabic)](link): Description.
